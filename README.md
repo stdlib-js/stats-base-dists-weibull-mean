@@ -69,7 +69,7 @@ where `k > 0` is the shape parameter `λ > 0` is the scale parameter.
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-mean@v0.2.2-deno/mod.js';
 ```
 
 #### mean( k, lambda )
@@ -140,7 +140,7 @@ v = mean( 1.0, -1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-mean@v0.2.2-deno/mod.js';
 
 var lambda;
 var k;
