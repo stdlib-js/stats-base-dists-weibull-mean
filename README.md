@@ -69,6 +69,11 @@ where `k > 0` is the shape parameter `λ > 0` is the scale parameter.
 ## Usage
 
 ```javascript
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-mean@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-weibull-mean/tags). For example,
+
+```javascript
 import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-mean@v0.2.2-esm/index.mjs';
 ```
 
@@ -145,7 +150,7 @@ v = mean( 1.0, -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-mean@v0.2.2-esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-mean@esm/index.mjs';
 
 var lambda;
 var k;
