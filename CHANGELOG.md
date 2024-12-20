@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-20)
+
+<section class="features">
+
+### Features
+
+-   [`db1d12e`](https://github.com/stdlib-js/stdlib/commit/db1d12e38135bf8e67b497e80e9f352e1bcb25cb) - add C implementation for `stats/base/dist/weibull/mean` [(#4052)](https://github.com/stdlib-js/stdlib/pull/4052)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3843](https://github.com/stdlib-js/stdlib/issues/3843)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`db1d12e`](https://github.com/stdlib-js/stdlib/commit/db1d12e38135bf8e67b497e80e9f352e1bcb25cb) - **feat:** add C implementation for `stats/base/dist/weibull/mean` [(#4052)](https://github.com/stdlib-js/stdlib/pull/4052) _(by Divyansh Seth, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Divyansh Seth
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
