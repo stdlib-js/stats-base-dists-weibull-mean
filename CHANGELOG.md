@@ -4,13 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-20)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
 ### Features
 
--   [`db1d12e`](https://github.com/stdlib-js/stdlib/commit/db1d12e38135bf8e67b497e80e9f352e1bcb25cb) - add C implementation for `stats/base/dist/weibull/mean` [(#4052)](https://github.com/stdlib-js/stdlib/pull/4052)
+-   [`db1d12e`](https://github.com/stdlib-js/stdlib/commit/db1d12e38135bf8e67b497e80e9f352e1bcb25cb) - add C implementation for `stats/base/dists/weibull/mean` [(#4052)](https://github.com/stdlib-js/stdlib/pull/4052)
 
 </section>
 
@@ -34,7 +34,9 @@ This release closes the following issue:
 
 <details>
 
--   [`db1d12e`](https://github.com/stdlib-js/stdlib/commit/db1d12e38135bf8e67b497e80e9f352e1bcb25cb) - **feat:** add C implementation for `stats/base/dist/weibull/mean` [(#4052)](https://github.com/stdlib-js/stdlib/pull/4052) _(by Divyansh Seth, Philipp Burckhardt)_
+-   [`2712c2c`](https://github.com/stdlib-js/stdlib/commit/2712c2c49e251f7dc53e1a984b233c37a2fdb871) - **bench:** only conditionally run benchmarks _(by Philipp Burckhardt)_
+-   [`a72a67a`](https://github.com/stdlib-js/stdlib/commit/a72a67a667bcf694e5f8f2bc3c8e62714e5832bc) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`db1d12e`](https://github.com/stdlib-js/stdlib/commit/db1d12e38135bf8e67b497e80e9f352e1bcb25cb) - **feat:** add C implementation for `stats/base/dists/weibull/mean` [(#4052)](https://github.com/stdlib-js/stdlib/pull/4052) _(by Divyansh Seth, Philipp Burckhardt)_
 
 </details>
 
