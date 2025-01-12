@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`1d5aa47`](https://github.com/stdlib-js/stdlib/commit/1d5aa47204c258b674d3db4aec92fbd2475e5ea7) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
+-   [`97c434d`](https://github.com/stdlib-js/stdlib/commit/97c434de1ac819d4f616202b10ebdce3970a76d8) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`2712c2c`](https://github.com/stdlib-js/stdlib/commit/2712c2c49e251f7dc53e1a984b233c37a2fdb871) - **bench:** only conditionally run benchmarks _(by Philipp Burckhardt)_
 -   [`a72a67a`](https://github.com/stdlib-js/stdlib/commit/a72a67a667bcf694e5f8f2bc3c8e62714e5832bc) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`db1d12e`](https://github.com/stdlib-js/stdlib/commit/db1d12e38135bf8e67b497e80e9f352e1bcb25cb) - **feat:** add C implementation for `stats/base/dists/weibull/mean` [(#4052)](https://github.com/stdlib-js/stdlib/pull/4052) _(by Divyansh Seth, Philipp Burckhardt)_
