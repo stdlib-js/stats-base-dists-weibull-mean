@@ -69,7 +69,7 @@ where `k > 0` is the shape parameter `λ > 0` is the scale parameter.
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-mean@v0.3.1-esm/index.mjs';
 ```
 
 #### mean( k, lambda )
@@ -146,7 +146,7 @@ v = mean( 1.0, -1.0 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-mean@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
